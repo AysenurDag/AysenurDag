@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ayşenur</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-<h3  Front‑End & Back-End: Java, ReactJS, JavaScript, HTML, CSS, Bootstrap</h3>
-<h3  Database: MSSQL Server (T-SQL), MySQL</h3>
+<h3> Front‑End & Back-End: Java, ReactJS, JavaScript, HTML, CSS, Bootstrap</h3> 
+<h3>Database: MSSQL Server (T-SQL), MySQL</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
