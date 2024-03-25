@@ -6,13 +6,17 @@
 
 - 📫 How to reach me **1aysenurdag@gmail.com**
 
+<h6  Front‑End & Back-End: Java, ReactJS, JavaScript, HTML, CSS, Bootstrap </h6>
+<h6  Database: MSSQL Server (T-SQL), MySQL </h6>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayşenur dağ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayşenur dağ" height="30" width="40" /></a>
 </p>
 
-<h6  Front‑End & Back-End: Java, ReactJS, JavaScript, HTML, CSS, Bootstrap </h6>
-<h6  Database: MSSQL Server (T-SQL), MySQL </h6>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
