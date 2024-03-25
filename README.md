@@ -9,7 +9,7 @@
 
 <h1 align="center">Skills</h1>
 
-<h3> Front‑End & Back-End: Java, ReactJS, JavaScript, HTML, CSS, Bootstrap</h3> 
+<h3> Front‑End & Back-End: Java, Python, ReactJS, JavaScript, HTML, CSS, Bootstrap</h3> 
 <h3>Database: MySQL</h3>
 
 
