@@ -13,13 +13,6 @@
 <h3>Database: MySQL</h3>
 
 
-
-<h1 align="center">Connect with me:</h1>
-
-<p align="left">
-<a href="[[https://linkedin.com/in/ayşenur dağ](https://www.linkedin.com/in/ay%C5%9Fenur-da%C4%9F-169a271b8/)](https://www.linkedin.com/in/ay%C5%9Fenur-da%C4%9F-169a271b8/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayşenur dağ" height="30" width="40" /></a>
-</p>
-
 <h1 align="center">Connect with me:</h1>
 
 <p align="left">
