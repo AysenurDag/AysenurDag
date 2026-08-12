@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayşenur</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🌱 I’m currently learning **.NET**
-
 - 📫 How to reach me **1aysenurdag@gmail.com**
 
 <h1 align="center">Skills</h1>
